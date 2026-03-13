@@ -1,5 +1,5 @@
 {
-  "defaultProvider": "openai",
-  "defaultModel": "gpt-5.4",
-  "defaultThinkingLevel": "high"
+  "defaultProvider": "google",
+  "defaultModel": "gemini-2.5-pro",
+  "defaultThinkingLevel": "medium"
 }
